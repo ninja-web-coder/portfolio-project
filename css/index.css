@@ -1,0 +1,116 @@
+body{
+    margin-top: 0;
+    margin-left: 0;  
+   margin-right: 0; 
+   text-align: center;
+   font-family: 'Merriweather', serif;
+    
+}
+
+h1{
+    margin: 50px auto 0 auto ;
+    font-family:'Sacramento', cursive;
+    font-size: 562.5% ;
+    color: darkcyan;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h2{
+
+    font-family: 'Kanit', sans-serif;
+    color: darkcyan; 
+    font-size: 2.5rem ;
+    font-weight: normal;
+
+}
+
+
+h3{
+
+ font-family: 'PT Sans', sans-serif ;
+ font-size:150%;
+ color:  #008B8B;
+
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    color:black;
+}
+
+ 
+.top-container{
+    background-color:#C3E4DD ;
+    margin-left: 0       ;
+    padding-top: 220px;
+    position: relative;
+
+    
+}
+
+.img-top{
+    position: absolute;
+    margin-right: 80px;
+}
+
+.middle-container{
+  
+    background-color: #D8E7B0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+.bottom-container{
+   background-color: #D8E7B0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.skill-img{
+    
+    float: left;
+    margin-right:30px ;
+
+}
+
+hr{
+    border:dotted #008B8B 6px ;
+    border-bottom: none;
+    width: 4%;
+ 
+}
+
+h4{
+    font-family: 'Kanit', sans-serif;
+    color: darkcyan;
+}
+
+.footer-para{
+    width: 50%;
+    margin: 20px auto 40px auto;
+   
+}
+
+.footer{
+    background-color: #C3E4DD;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer a{
+    text-decoration: none;
+    margin-left: 14px;
+    font-size: 20px;
+    
+}
